@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Puto
 public class Matrius {
     private int [] [] matriuA;
     private int [] [] matriuB;
